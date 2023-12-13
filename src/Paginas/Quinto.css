@@ -1,0 +1,18 @@
+.quinto-container {
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .quinto-title {
+    color: #333;
+    text-align: center;
+  }
+  
+  .quinto-text {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+    margin-bottom: 20px;
+  }
+  

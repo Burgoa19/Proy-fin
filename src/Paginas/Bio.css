@@ -1,0 +1,12 @@
+.parrafo-grande {
+    font-size: 22px; 
+    font-family: 'Comics-Sans'; 
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  img {
+    max-width: 100%; 
+    height: auto;
+    align-items: center;
+  }
+  

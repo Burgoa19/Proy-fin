@@ -1,0 +1,17 @@
+
+.musica-container {
+    margin: 20px;
+}
+
+.musica-heading {
+    color: #333;
+    text-align: center;
+    font-size: 24px;
+}
+
+.musica-text {
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+    margin-bottom: 15px;
+}

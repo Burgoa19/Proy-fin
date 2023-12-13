@@ -1,0 +1,10 @@
+.discos-container {
+    text-align: center;
+  }
+  
+  .discografia-container {
+    text-align: left;
+    margin: 0 auto; 
+    max-width: 600px; 
+  }
+  

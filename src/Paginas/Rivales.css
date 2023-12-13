@@ -1,0 +1,26 @@
+
+
+.rivales-container {
+    margin: 20px;
+}
+
+.rivales-heading {
+    color: #000000;
+    text-align: center;
+    font-size: 30px; 
+}
+
+.rivales-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.rivales-item {
+    margin-bottom: 15px;
+    font-size: 20px; 
+}
+.check {
+    margin-right: 8px; 
+    color: #000000; 
+    font-size: 20px;
+}

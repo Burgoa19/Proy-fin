@@ -1,0 +1,29 @@
+.titulos-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .seccion-titulo {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .seccion-titulo h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .seccion-titulo img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .seccion-titulo p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
